@@ -80,7 +80,3 @@ Shows how currency selection affects reported revenue, supporting financial deci
 
 📌 Operational Efficiency
 Reduces manual reporting and speeds up monthly sales reviews.
-
-🖼️ Screenshots / Demo
-Dashboard Preview
-Dashboard Preview
